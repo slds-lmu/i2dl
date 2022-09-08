@@ -1,0 +1,2 @@
+{{ if or (and (isset .Params "mathjax") (.Params.mathjax)) (and (not (isset .Params "mathjax")) .Site.Params.mathjax) }}{{ partial "mathjax_support.html" . }}{{ end }}
+{{ if .Params.quizdown }}{{ partial "quizdown_support.html" . }}{{ end }}

@@ -1,0 +1,4 @@
+{{- $file_url := .Get "file" -}}
+{{- $file_url :=  path.Join .Page.Dir $file_url -}}
+{{- $file_url := $file_url | absURL -}}
+{{- $file_url -}}

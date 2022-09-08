@@ -1,0 +1,55 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+
+<hr />
+
+
+{{ $chapters := .Site.GetPage "section" "chapters" }}
+{{ if $chapters.Pages }}
+<div class="chapter_overview" id="index_chapters">
+<ul class="list-unstyled">
+{{ with $chapters.Pages }}
+{{ range sort . ".File.Path"}}
+<li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a>
+{{ if .Pages}}
+<ul>
+  {{ range .Pages}}
+  <li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a></li>
+  {{ end }}
+</ul>
+{{ end }}
+</li>
+{{ end }}
+</ul>
+</div>
+{{ end }}
+{{ end }}
+
+{{ $appendix := .Site.GetPage "section" "appendix" }}
+{{ if $appendix.Pages }}
+<div class="chapter_overview" id="index_appendix">
+<ul class="list-unstyled">
+{{ with $appendix.Pages }}
+{{ range sort . ".File.Path"}}
+<li><a class="title" href="{{ .RelPermalink }}">{{.Title}}</a></li>
+{{ end }}
+{{ end }}
+</ul>
+</div>
+{{ end }}
+
+{{ $exercises := .Site.GetPage "section" "exercises" }}
+<!-- For debugging:
+{{ printf "%#v" $exercises.Title }}
+{{ printf "%#v" $exercises.RelPermalink }}
+-->
+{{ if $exercises.Title }}
+<div class="chapter_overview" id="index_appendix">
+<ul class="list-unstyled">
+<li><a class="title" href="{{ $exercises.RelPermalink }}">{{ $exercises.Title }}</a></li>
+</ul>
+</div>
+{{ end }}
+{{ end }}

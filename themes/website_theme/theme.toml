@@ -1,0 +1,12 @@
+name = "CourseTheme"
+license = "MIT"
+licenselink = "https://github.com/jakob-r/courseTheme/blob/main/LICENSE"
+description = "Small theme for lectures and online courses with videos, pdf slides and quizzes"
+homepage = "https://jakob-r.de/hugo-course/"
+tags = ["education"]
+features = []
+min_version = "0.80.0"
+
+[author]
+  name = "Jakob Richter"
+  homepage = "https://jakob-r.de"

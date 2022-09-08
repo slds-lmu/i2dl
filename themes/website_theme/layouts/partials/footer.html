@@ -1,9 +1,0 @@
-<footer class="bg-light text-center text-lg-start fixed-bottom">
-<ul class="list-inline text-center">
-  <li class="list-inline-item">{{.Site.Params.footer | safeHTML}}</li>
-  {{ range .Site.Menus.footer }}
-  <li class="list-inline-item"><a class="nav-link" href="{{ .URL | relURL }}" target="_blank">{{ .Name | safeHTML }}</a></li>
-  {{ end }}
-</ul>
-</footer>
-

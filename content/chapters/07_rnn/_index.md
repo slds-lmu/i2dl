@@ -1,4 +1,4 @@
 ---
-title: "Chapter 07: Random Forests"
+title: "Chapter 07: Deep Recurrent Neural Networks"
 ---
-This chapter introduces bagging as a method to increase the performance of trees (or other base learners). A modification of bagging leads to random forests. We explain the main idea of random forests, benchmark their performance with the methods seen so far and show how to quantify the impact of a single feature on the performance of the random forest as well as how to compute proximities between observations.
+We explain another popular family of neural network which made many success for NLP data. 

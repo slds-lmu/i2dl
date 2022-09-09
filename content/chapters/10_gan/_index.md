@@ -1,4 +1,4 @@
 ---
-title: "Chapter 10: mlr3"
+title: "Chapter 10: Generative Adversarial Neural Networks (GANs)"
 ---
-This chapter introduces the R package mlr3. After some basic concepts we focus on resampling, tuning and pipelines.
+This chapter introduces GANs, application of deep generative models and challenges in optimization.

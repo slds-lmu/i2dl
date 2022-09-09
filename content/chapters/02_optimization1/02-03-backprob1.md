@@ -1,5 +1,5 @@
 ---
-title: "Chapter 02.03: Basic Backpropagation 1"
+title: "Chapter 02.04: Basic Backpropagation 1"
 weight: 2003
 ---
 This section introduces forward and backward passes, chain rule, and the details of backprop in deep learning.

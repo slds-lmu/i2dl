@@ -1,13 +1,13 @@
 ---
-title: "Chapter 01.05: Learner"
+title: "Chapter 01.05: Single Hidden Layer Networks for Multi-Class Classification"
 weight: 1005
 ---
-Roughly speaking, learners (endowed with a specific hyperparameter configuration) take training data and return a model.
+In this section, we discuss a neural network architectures for multi-class classification, softmax activation function as well as the Softmax loss.
 
 <!--more-->
 ### Lecture video
 
-{{< video id="amTGAHFY7Go">}}
+{{< video id="">}}
 
 ### Lecture slides
 

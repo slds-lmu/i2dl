@@ -1,15 +1,16 @@
 ---
-title: "Chapter 01.04: Models and Parameters"
+title: "Chapter 01.04: Single Hidden Layer NN"
 weight: 1004
 ---
-We introduce models as functional hypotheses about the mapping from feature to target space that allow us to make predictions by computing a function of the input data. Frequently in machine learning, models are understood to be parameterized curves, which is illustrated by several examples.
+We introduce architecture of single hidden layer neural networks and discuss the advantage of hidden layers. Then, we explain the typical (non-linear) activation
+functions.
 
 <!--more-->
 
 ### Lecture video
 
-{{< video id="GNnKL0DVyiY">}}
+{{< video id="">}}
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-models-parameters.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-mlps-single-hidden-layer-networks.pdf" >}}

@@ -17,23 +17,21 @@ If you need to read up on some of the required topics (see [Prerequisites](../pr
 - Andrej Karpathy blog [URL](http://karpathy.github.io/)
 - Coursera Kurs "Neural Networks for Machine Learning" [URL](https://www.coursera.org/learn/neural-networks#syllabus)
 
-### Good Websites to have a look 
+#### Good Websites to have a look 
  - [distill.pub](https://distill.pub/): in-depth explanations of important concepts, worth checking out periodically for new material
 
 
-### Optimization / Training of NNs:
-
+#### Optimization / Training of NNs:
  - Why Momentum Really Works: [ULR](https://distill.pub/2017/momentum/)
  - Adam -- latest trends in deep learning optimization [URL](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
  - Overview of Gradient Descent Optimization Algorithms [URL](https://ruder.io/optimizing-gradient-descent/)
  - Yes you should understand backprop [URL](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
  - A Recipe for Training Neural Networks [URL](https://karpathy.github.io/2019/04/25/recipe/)
 
-### Regularization:
-
+#### Regularization:
 - Regularization for Deep Learning: A Taxonomy [URL](https://arxiv.org/pdf/1710.10686.pdf)
 
-### CNNs:
+#### CNNs:
 
 - The Sobel and Laplacian Edge Detectors [URL](http://aishack.in/tutorials/sobel-laplacian-edge-detectors/)
 - Keras Blog: How convolutional neural networks see the world [URL](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
@@ -50,53 +48,35 @@ If you need to read up on some of the required topics (see [Prerequisites](../pr
 	- [Assignements und notes](http://cs231n.github.io/) 
  
 
-### Autoencoders
-
+#### Autoencoders/Variational Autoencoders
 - PCA [URL](http://www.cs.cmu.edu/~guestrin/Class/15781/slides/pca-mdps-annotated.pdf)
 - Introducing Variational Autoencoders (in Prose and Code) [URL](https://blog.fastforwardlabs.com/2016/08/12/introducing-variational-autoencoders-in-prose-and.html)
-
-### Variational Autoencoders
-
 - A Tutorial on Variational Autoencoders [URL](https://arxiv.org/pdf/1606.05908.pdf)
 
-
-
-### Reinforcement Learning
-
+#### Reinforcement Learning
 - Statistical Reinforcement Learning (Lecture) [URL](http://nanjiang.cs.illinois.edu/cs598/)
 - Practical Reinforcement Learning (Course) [URL](https://github.com/yandexdataschool/Practical_RL)
 
 
-
-### LSTMs:
-
+#### LSTMs:
 - Understanding LSTM and its diagrams [URL](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714)
 - The most comprehensive yet simple and fun RNN/LSTM tutorial on the Internet. [URL](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
 
 
-### Hyperparameter Optimization / Neural Architecture Search / etc:
-
+#### Hyperparameter Optimization/ Neural Architecture Search
 - Using Machine Learning to Explore Neural Network Architecture [URL](https://ai.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 
 
-### Software / Languages / etch
-
+#### Software
 - [R vs Python: Image Classification with Keras](https://towardsdatascience.com/r-vs-python-image-classification-with-keras-1fa99a8fef9b)
 - H20 related stuff: 
 	- [Repository that contains the H2O presentation for Trevor Hastie and Rob Tibshirani's Statistical Learning and Data Mining IV course in Washington, DC on October 19, 2016.](https://github.com/ledell/sldm4-h2o)
 	- [Deep Learning with H2O - PDF/Book](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/DeepLearningBooklet.pdf)
 
 
-### Nice Demos and Vizualisations
-
-- Deep Traffic [URL](https://selfdrivingcars.mit.edu/deeptraffic/)
-
 
 ### Material for Exercises
-
 - Neural networks Exercises (Part-1) [URL](https://www.r-bloggers.com/neural-networks-exercises-part-1/)
-
-
 - M. Deisenroth, A. Faisal, C. Ong. Mathematics for Machine Learning. [URL](https://mml-book.github.io/book/mml-book.pdf)
 - L. Wassermann. All of Statistics. [URL](http://egrcc.github.io/docs/math/all-of-statistics.pdf)
 - H. Wickham, G. Grolemund. R for Data Science. [URL](https://r4ds.had.co.nz/)

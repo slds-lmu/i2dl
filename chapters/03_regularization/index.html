@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="/i2dl/css/style.css">
 
 
-<title>Introduction to Machine Learning (I2ML) | Chapter 03: Supervised Classification</title>
+<title>Introduction to Machine Learning (I2ML) | Chapter 03:  Regularization</title>
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/i2dl/apple-touch-icon.png">
@@ -66,9 +66,9 @@
         
     </nav>
 </div><div id="content" class="container">
-<h1>Chapter 03: Supervised Classification</h1>
+<h1>Chapter 03:  Regularization</h1>
 
-<p><p>This chapter treats the supervised classification task in more detail. We will see examples of binary and multiclass classification and the differences between discriminative and generative approaches. In particular, we will address logistic regression, discriminant analysis and naive Bayes classifiers.</p>
+<p><p>This chapter introduces the concept of regularization and discusses common regularization techniques in more depth.</p>
 </p>
 
 
@@ -77,60 +77,50 @@
 
 
 <li>
-    <a class="title" href="/i2dl/chapters/03_regularization/03-01-tasks/">Chapter 03.01: Classification Tasks</a>
+    <a class="title" href="/i2dl/chapters/03_regularization/03-01-basic-reg/">Chapter 03.01: Basic Regularization</a>
     
       
-        <p>In classification, the task is to predict a categorical (binary or multiclass) label. In this section, we illustrate the concept of classification with some typical examples.
+        <p>In this section we discuss regularized cost functions, norm penalties, weight decay, and equivalence with constrained optimization.
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/i2dl/chapters/03_regularization/03-02-classification-basicdefs/">Chapter 03.02: Basic Definitions</a>
+    <a class="title" href="/i2dl/chapters/03_regularization/03-02-reg-detail/">Chapter 03.02: Regularization in Non-Linear Models and Bayesian Priors</a>
     
       
-        <p>Although we are primarily interested in actual class labels, classification models usually output scores or probabilities first. We will explain why, introduce the concepts of decision regions and decision boundaries, and discern two fundamental approaches to constructing classifiers: the generative approach and the discriminant approach.
+        <p>In this section, we motivate regularization from a Bayesian perspective.
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/i2dl/chapters/03_regularization/03-03-classification-linear/">Chapter 03.03: Linear Classifiers</a>
+    <a class="title" href="/i2dl/chapters/03_regularization/03-03-geometric/">Chapter 03.03: Geometric Analysis of L2 Regularization and Weight Decay</a>
     
       
-        <p>Linear classifiers are an essential subclass of classification models. This section provides the definition of a linear classifier and depicts differences between linear and non-linear decision boundaries.
+        <p>In this section, we provide a geometric understanding of \(L2\) regularization, showing how parameters are shrunk according to the eigenvalues of the Hessian of empirical risk, and discuss its correspondence to weight decay.
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/i2dl/chapters/03_regularization/03-04-classification-logistic/">Chapter 03.04: Logistic Regression</a>
+    <a class="title" href="/i2dl/chapters/03_regularization/03-04-early-stop/">Chapter 03.04: Early Stopping</a>
     
       
-        <p>Logistic regression is a discriminant approach toward constructing a classifier. We will motivate logistic regression via the logistic function, define the log-loss for optimization and illustrate the approach in 1D and 2D.
+        <p>In this section, we introduce early stopping and show how it can act as a regularizer.
 </p>
       
       
 </li>
 
 <li>
-    <a class="title" href="/i2dl/chapters/03_regularization/03-05-classification-discranalysis/">Chapter 03.05: Discriminant Analysis</a>
+    <a class="title" href="/i2dl/chapters/03_regularization/03-05-dropout/">Chapter 03.05: Discriminant Analysis</a>
     
       
-        <p>Discriminant analysis is a generative approach toward constructing a classifier. We distinguish between linear (LDA) and quadratic (QDA) discriminant analysis, where the latter is a more flexible approach subsuming the first.
-</p>
-      
-      
-</li>
-
-<li>
-    <a class="title" href="/i2dl/chapters/03_regularization/03-06-classification-naivebayes/">Chapter 03.06: Naive Bayes</a>
-    
-      
-        <p>Naive Bayes is a generative approach based on an assumption of conditional independence across features and closely related to discriminant analysis.
+        <p>In this section, we explain ensemble method, dropout and data augmentation.
 </p>
       
       

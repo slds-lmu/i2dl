@@ -2,16 +2,21 @@
 title: Prerequisites
 ---
 
-## Maths & Statistics
+## Data Science & Statistics 
 
-The course is targeted at ML beginners with a basic, university-level, education in maths and statistics and programming.  The first part aims at a practical and operational understanding of concepts. It requires a basic (!) understanding of: 
+The course aims at providing a basic theoretical and practical understanding of neural network approaches. We start with covering the necessary background on traditional artificial neural networks, backpropagation, online learning, and regularization. Then we explain special methods used in deep learning, like drop-out and rectified linear units. We also talk about further advanced topics like convolutional layers, recurrent neural networks, auto-encoders, and generative adversarial networks (GANs). 
+
+Our course requires a basic (!) understanding of: 
 - Linear algebra: vectors, matrices
 - Multivariate calculus: derivatives, gradients, integrals
 - Probability theory: random variables, distributions, expectation and variance
-- Statistics: not a lot -- parameter estimation and linear modeling from a statistics perspective will help but is not required
+- Machine Learning! Preferably the lecture Fortgeschrittene Computerintensive Methoden (Computational Methods II) or Predictive Modeling.
+- optimization, e.g., Computerintensive Methoden (Computational Methods I) in the statistics master.
+- Solid programming knowledge in R or Python.
 
-The second part focuses on theoretical foundations and more complex algorithms. The general prerequisites are not really that different, but we often go more in-depth into topics, and some parts also contain proofs. 
+In addition, our exercises designed to help for practical applications and open-source deep learning libraries.
+
 
 ## Programming Language
 
-All of the covered concepts and algorithms are presented independently of any programming language. But of course we also offer a large variety of applied exercises and notebooks. These are currently in R, and often use the [mlr3](https://cran.r-project.org/web/packages/mlr3/index.html) package. We are working on offering the exercises in Python as well.
+All of the covered concepts and algorithms are presented independently of any programming language. But of course we also offer a large variety of applied exercises and notebooks. These are currently in R (TensorFlow) and Python (PyTorch).

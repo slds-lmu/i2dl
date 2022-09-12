@@ -13,4 +13,4 @@ We explain challenges of GANs model such as no convergence to fix point
 
 ### Lecture slides
 
-{{< pdfjs file="" >}}
+<!--{{< pdfjs file="" >}}-->

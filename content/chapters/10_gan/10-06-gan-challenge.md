@@ -9,7 +9,8 @@ We explain challenges of GANs model such as no convergence to fix point
 
 ### Lecture video
 
-{{< video id="" >}}
+[video](https://drive.google.com/file/d/1gjgnDuRXrRSqQhjYibAXq3d-Y0TTMjD1/view?usp=sharing)
 
 ### Lecture slides
 
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic10/slides-GANs-challenges.pdf" >}}

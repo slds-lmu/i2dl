@@ -8,9 +8,9 @@ We explain input channel, padding, stride, and pooling as CNN component.
 
 ### Lecture video
 
-{{< video id="">}}
+[video](https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic5/slides-cnn-components.pdf)
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-cnn-cnn-components.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic5/slides-cnn-components.pdf" >}}
 

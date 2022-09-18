@@ -9,5 +9,5 @@ We explain the differences between convolution operation and cross-correlation.
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-cnn-math.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic5/slides-cnn-math.pdf" >}}
 

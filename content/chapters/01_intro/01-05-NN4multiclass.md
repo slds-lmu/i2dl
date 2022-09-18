@@ -7,8 +7,8 @@ In this section, we discuss a neural network architectures for multi-class class
 <!--more-->
 ### Lecture video
 
-{{< video id="">}}
+[video](https://drive.google.com/file/d/1UQzYXirQsYPfSPf-u8JY2S21lGnLhPxK/view?usp=sharing)
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-learner.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic1/slides-mlps-multiclass-classification.pdf" >}}

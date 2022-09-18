@@ -8,7 +8,7 @@ In this section we learn about compact representation of neural network, vector 
 
 ### Lecture video
 
-{{< video id="">}}
+[video](https://drive.google.com/file/d/1gIIexhQXO4X1A1Hl_690FvCh5jKFWsIZ/view?usp=sharing)
 
 ### Lecture slides
 

@@ -7,8 +7,8 @@ Architectures of deep neural networks and deep neural networks as chained functi
 
 ### Lecture video
 
-{{< video id="">}}
+[video](https://drive.google.com/file/d/1cK5Iu-NSUQkSUPq6x4wnbr7jwuQ32rbZ/view?usp=sharing)
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-mlps-multilayer-FNNs.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic1/slides-mlps-multilayer-FNNs.pdf" >}}

@@ -8,7 +8,7 @@ In this section, we introduces the relationship of DL and ML, give basic intro a
 
 ### Lecture video
 
-{{< video id="https://drive.google.com/file/d/1SiN3Zo12lUOrTY5ISBCDemNbS-vlwUa8/view?usp=sharing" >}}
+[video](https://drive.google.com/file/d/1SiN3Zo12lUOrTY5ISBCDemNbS-vlwUa8/view?usp=sharing)
 
 ### Lecture slides
 

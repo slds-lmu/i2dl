@@ -2,24 +2,23 @@
 
 - ![](https://www.slds.stat.uni-muenchen.de/images/bernd.jpg) [Bernd Bischl](https://www.compstat.statistik.uni-muenchen.de/people/bischl/)
   wrote the initial version of most of the course material, and teaches various master courses in ML and DL at the LMU for stats and data science.
+- ![](https://www.slds.stat.uni-muenchen.de/images/janek.jpg) [Janek Thomas](https://www.compstat.statistik.uni-muenchen.de/people/thomas/)
+  wrote the initial version of most of the course material, and held the classes in winter semester 2019/20.
 - ![](https://www.slds.stat.uni-muenchen.de/images/david.jpg) [David Ruegamer](https://www.compstat.statistik.uni-muenchen.de/people/ruegamer/)
-  joined the team in summer 2020, held the classes in winter 2020/21, winter 2021/22 and is in charge of the classes held in summer 2022 at LMU Munich.
+  joined the team in summer 2020, held the virtual classes in winter semester 2020/21, 2021/22 as well as summer term 2022 and and contributed to the slides and videos.
+- ![](https://www.slds.stat.uni-muenchen.de/images/Mina.jpg) [Mina Rezaei](https://www.slds.stat.uni-muenchen.de/people/minar/)
+ joined the team in summer 2020, held the virtual classes in winter semester 2020/21, 2021/22 as well as summer term 2022 and and contributed to the slides and videos.
 - ![](https://www.slds.stat.uni-muenchen.de/images/asja.jpg) [Asja Fischer](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Machine_Learning/index.html.en)
-  joined the team in fall 2021 and contributed to the slides, videos and code demos.
-- ![](https://www.slds.stat.uni-muenchen.de/images/anil_guenduez.jpg) [Anil Gunduz](https://www.slds.stat.uni-muenchen.de/people/guenduez/)
-  joined the team in fall 2021 and contributed to the slides, videos and code demos.
+  joined the team in winter semester 2021/22 and since then she contributed to the slides and videos.
 - ![](https://www.slds.stat.uni-muenchen.de/images/dorigatti.jpg) [Emilio Dorigatti](https://www.slds.stat.uni-muenchen.de/people/dorigatti/)
-  joined the team in fall 2021 and contributed to the slides, videos and code demos.
+is a PhD at Bernd’s group and contributed to the code demos and exercises; he also presented the code demos at the classes held in winter semester 2020/21 and 2021/22.
+- ![](https://www.slds.stat.uni-muenchen.de/images/anil_guenduez.jpg) [Anil Gunduz](https://www.slds.stat.uni-muenchen.de/people/guenduez/)
+is a PhD at Bernd’s group and contributed to the code demos and exercises; he also presented the code demos at the classes held in summer term 2022.
 - ![](https://www.slds.stat.uni-muenchen.de/images/TobiasW.jpg) [Tobias Weber](https://www.slds.stat.uni-muenchen.de/people/weber/)
-  joined the team in fall 2021 and contributed to the slides, videos and code demos.
+is a PhD at Bernd’s group and contributed to the code demos and exercises;
 - ![](https://avatars.githubusercontent.com/u/20367117?v=4) [Daniel Schalk](https://www.compstat.statistik.uni-muenchen.de/people/schalk)
   is a PhD at Bernd's group and he is admin of our i2dl webpage.
-- ![](https://www.slds.stat.uni-muenchen.de/images/Mina.jpg) [Mina Rezaei](https://www.slds.stat.uni-muenchen.de/people/minar/)
-  is a postdoc at Bernd’s group and contributed to course material, and teaches various master courses in DL at the LMU for stats and data science in WS20/21, WS 21/22, SS 22.
 
-## Current student assistants
-
-- Omid 
 
 ## Alumni
 

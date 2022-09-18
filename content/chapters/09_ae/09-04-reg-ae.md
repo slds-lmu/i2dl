@@ -13,5 +13,4 @@ In this section, we explain overcomplete AEs, sparse AEs, denoising AEs and cont
 
 ### Lecture slides
 
-{{< pdfjs file="" >}}
 

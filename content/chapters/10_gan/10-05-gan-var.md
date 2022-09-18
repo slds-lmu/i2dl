@@ -12,4 +12,3 @@ We explain non-saturating loss and conditional GANs in this part.
 
 ### Lecture slides
 
-{{< pdfjs file="" >}}

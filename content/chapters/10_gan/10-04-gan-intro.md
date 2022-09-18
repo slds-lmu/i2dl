@@ -11,4 +11,3 @@ Generative adversarial networks (GANs) are an exciting recent innovation in mach
 
 ### Lecture slides
 
-{{< pdfjs file="" >}}

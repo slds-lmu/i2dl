@@ -8,7 +8,7 @@
   joined the team in summer 2020, held the virtual classes in winter semester 2020/21, 2021/22 as well as summer term 2022 and and contributed to the slides and videos.
 - ![](https://www.slds.stat.uni-muenchen.de/images/Mina.jpg) [Mina Rezaei](https://www.slds.stat.uni-muenchen.de/people/minar/)
  joined the team in summer 2020, held the virtual classes in winter semester 2020/21, 2021/22 as well as summer term 2022 and and contributed to the slides and videos.
-- ![](https://www.slds.stat.uni-muenchen.de/images/asja.jpg) [Asja Fischer](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Machine_Learning/index.html.en)
+- ![](https://www.slds.stat.uni-muenchen.de/images/fischer.png) [Asja Fischer](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Machine_Learning/index.html.en)
   joined the team in winter semester 2021/22 and since then she contributed to the slides and videos.
 - ![](https://www.slds.stat.uni-muenchen.de/images/dorigatti.jpg) [Emilio Dorigatti](https://www.slds.stat.uni-muenchen.de/people/dorigatti/)
 is a PhD at Bernd’s group and contributed to the code demos and exercises; he also presented the code demos at the classes held in winter semester 2020/21 and 2021/22.
@@ -18,6 +18,8 @@ is a PhD at Bernd’s group and contributed to the code demos and exercises; he 
 is a PhD at Bernd’s group and contributed to the code demos and exercises;
 - ![](https://avatars.githubusercontent.com/u/20367117?v=4) [Daniel Schalk](https://www.compstat.statistik.uni-muenchen.de/people/schalk)
   is a PhD at Bernd's group and he is admin of our i2dl webpage.
+
+
 
 
 ## Alumni

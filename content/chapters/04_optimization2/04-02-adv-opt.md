@@ -9,9 +9,9 @@ In this section we introduce several advanced techniques for optimization of neu
 
 ### Lecture video
 
-{{< video id="" >}}
+[video](https://drive.google.com/file/d/1n7mXKWjOkBAsMg9VnmaC6mBrqHRRIcO4/view?usp=sharing)
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-4-2-advanced-optim.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic4/slides-4-2-advanced-optim.pdf" >}}
 

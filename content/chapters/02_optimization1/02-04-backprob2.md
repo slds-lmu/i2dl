@@ -8,11 +8,11 @@ We continue our discussion about backpropagation in formalism and recursion.
 
 ### Lecture video
 
-{{< video id="" >}}
+[video](https://drive.google.com/file/d/1eusrnKJe6KW0K_XCQWoo8vzGHBLiF5L6/view?usp=sharing)
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-opt-and-regu-basic-backpropagation2.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic2/slides-opt1-basic-backpropagation2.pdf" >}}
 
 
 

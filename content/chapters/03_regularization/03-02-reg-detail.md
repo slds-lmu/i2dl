@@ -12,4 +12,4 @@ In this section, we motivate regularization from a Bayesian perspective.
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/tree/master/slides-pdf/slides-regu-nonlin-bayes.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic3/slides-regu-nonlin-bayes.pdf" >}}

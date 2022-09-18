@@ -7,11 +7,11 @@ This section introduces forward and backward passes, chain rule, and the details
 
 ### Lecture video
 
-{{< video id="q1ETfSxEfSg" >}}
+[video](https://drive.google.com/file/d/1rLKDhBrFE92x7ysoU0rlw_k8ojnKMMz6/view?usp=sharing)
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-opt-and-regu-basic-backpropagation1.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic2/slides-opt1-basic-backpropagation1.pdf" >}}
 
 
 

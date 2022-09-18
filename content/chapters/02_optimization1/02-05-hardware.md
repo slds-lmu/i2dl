@@ -8,7 +8,7 @@ This section introduces GPU training for accelerated learning of neural networks
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-opt1-hardware-and-software.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic2/slides-opt1-hardware-and-software.pdf" >}}
 
 
 

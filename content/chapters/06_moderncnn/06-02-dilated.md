@@ -7,9 +7,8 @@ Dilated Convolutions and Transposed Convolutions are two important types of CNNs
 <!--more-->
 
 ### Lecture video
-
-{{< video id="" >}}
+[video](https://drive.google.com/file/d/1bq6s-9g-9ylBuv0iQJEKLKOrLvNdjW_e/view?usp=sharing)
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-dilated-transposed-convolutions.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic6/slides-6-2-dilated-transposed-convolutions.pdf" >}}

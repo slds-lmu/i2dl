@@ -8,8 +8,8 @@ In this section we explain the graphical representation of a single neuron and d
 
 ### Lecture video
 
-{{< video id="">}}
+[video](https://drive.google.com/file/d/1EMIA3KPyyAWMfwyr3WUGao3JZDQceiPC/view?usp=sharing)
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/blob/master/slides-pdf/slides-basics-data.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic1/slides-mlps-single-neuron-.pdf" >}}

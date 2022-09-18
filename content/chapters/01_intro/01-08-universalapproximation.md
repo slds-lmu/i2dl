@@ -8,10 +8,10 @@ Universal approximation theorem for one-hidden-layer neural networks and pros an
 
 ### Lecture video
 
-{{< video id="">}}
+[video](https://drive.google.com/file/d/1lcF_Tm5QhZohwOjbbEzSPyhL5PfF6weS/view?usp=sharing)
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-mlp-univ-approx-theorem.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic1/slides-mlp-univ-approx-theorem.pdf" >}}
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Chapter 02.03: Basic Backpropagation 2"
-weight: 2003
+title: "Chapter 02.04: Basic Backpropagation 2"
+weight: 2004
 ---
 We continue our discussion about backpropagation in formalism and recursion.
 

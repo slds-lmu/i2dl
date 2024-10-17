@@ -1,4 +1,4 @@
 ---
-title: "Topic 2: Optimization Part-1"
+title: "Topic 2: Optimization Part I"
 ---
-This chapter describes computational graph, basic training of neural networks and backpropagation. 
+In this chapter we introduce the basic training process of neural networks. In addition, we explain computational graphs and backpropagation in the context of optimizing neural networks. 

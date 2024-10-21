@@ -1,6 +1,6 @@
 ---
-title: "Chapter 03.03: Geometric Analysis of L2 Regularization and Weight Decay"
-weight: 3003
+title: "Chapter 03.04: Geometric Analysis of L2 Regularization and Weight Decay"
+weight: 3004
 ---
 In this section, we provide a geometric understanding of \\(L2\\) regularization, showing how parameters are shrunk according to the eigenvalues of the Hessian of empirical risk, and discuss its correspondence to weight decay. 
 
@@ -8,8 +8,8 @@ In this section, we provide a geometric understanding of \\(L2\\) regularization
 
 ### Lecture video
 
-{{< video id="_Y1eEMaxNl8" >}}
+{{< video id="PhOL5HB8FIw" >}}
 
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2ml/tree/master/slides-pdf/slides-regu-geom-l2-wdecay.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_sl/raw/main/slides-pdf/slides-regu-geom-l2.pdf" >}}

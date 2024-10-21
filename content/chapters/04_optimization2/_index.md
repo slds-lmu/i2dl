@@ -1,4 +1,4 @@
 ---
-title: "Topic 04: Optimization Part 2"
+title: "Topic 04: Optimization Part II"
 ---
-This chapter introduce advanced techniques for optimization of neural networks and deep learning.
+This chapter introduces advanced techniques for optimization of neural networks and deep learning.

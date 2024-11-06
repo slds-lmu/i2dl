@@ -1,15 +1,10 @@
 ---
-title: "Chapter 07.02: Recurrent Neural Networks - Backpropogation"
+title: "Chapter 07.02: Backpropogation in RNNs"
 weight: 7002
 ---
-In this section we explain the backpropagation for RNN as well as exploiding and vanishing gradients.
+In this section we explain backpropagation for RNN as well as the phenomenon of exploding and vanishing gradients.
 
 <!--more-->
-
-### Lecture video
-
-{{< video id="https://drive.google.com/file/d/1wqpzcSNc1Lz0TC732jlqeWFa3Uz5qNwC/view?usp=sharing" >}}
-
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic7/slides-8-2-backprop.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/rnn/slides-backprop.pdf" >}}

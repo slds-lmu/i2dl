@@ -1,4 +1,4 @@
 ---
 title: "Topic 2: Optimization - Part I"
 ---
-In this chapter we introduce the basic training process of neural networks. In addition, we explain computational graphs and backpropagation in the context of optimizing neural networks. 
+This chapter introduces foundational concepts in training neural networks, including backpropagation and computational graphs, which provide a structured approach for calculating gradients for optimizing model parameters. It also discusses gradient descent and stochastic gradient descent and touches on strategies for effective learning, such as learning rate selection and weight initialization.

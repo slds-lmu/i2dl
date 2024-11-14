@@ -2,8 +2,7 @@
 title: "Chapter 02.01: Basic Training"
 weight: 2001
 ---
-Empirical risk minimization, gradient descent, and stochastic gradient descent are the main focus of this subchapter.
-
+This subchapter covers essential principles of neural network training, starting with empirical risk minimization (ERM) and gradient descent (GD). Additionally, it introduces stochastic gradient descent (SGD) as a computationally efficient alternative to GD.
 <!--more-->
 ### Lecture slides
 

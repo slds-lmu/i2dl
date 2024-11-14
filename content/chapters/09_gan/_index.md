@@ -1,4 +1,4 @@
 ---
-title: "Topic 10: Generative Adversarial Neural Networks (GANs)"
+title: "Topic 09: Generative Adversarial Neural Networks"
 ---
-This chapter introduces GANs, application of deep generative models and challenges in optimization.
+Generative Adversarial Networks (GANs) are a class of machine learning models that consist of two competing networks: a generator, which creates data samples, and a discriminator, which evaluates their authenticity. This chapter introduces the core principles of GANs, explores popular variants and addresses challenges in optimizing them.

@@ -2,10 +2,10 @@
 title: "Chapter 05.05: CNN Application"
 weight: 5005
 ---
-We overview some successful application of CNN especially in the context of visual recognition.
+In this subchapter, we explore diverse applications of CNNs e.g. in visual recognition tasks, image classification, object detection, colorization, and semantic segmentation, illustrating their adaptability across domains.
 
 <!--more-->
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic5/slides-cnn-application.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/cnn1/slides-cnn-application.pdf" >}}
 

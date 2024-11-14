@@ -2,7 +2,7 @@
 title: "Chapter 05.01: Introduction of Convolution Neural Networks (CNNs)"
 weight: 5001
 ---
-In this part, we introduce the CNNs and when we can apply CNNs instead of FCN.  
+This subchapter briefly covers the primary components of CNN architectures and explores applications of CNNs in fields like autonomous driving, medical imaging, and natural language processing.  
 
 <!--more-->
 ### Lecture slides

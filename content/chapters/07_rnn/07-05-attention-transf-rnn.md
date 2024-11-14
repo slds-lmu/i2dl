@@ -2,7 +2,7 @@
 title: "Chapter 07.05: Attention and Transformers"
 weight: 7005
 ---
-In this subchapter we introduce more recent sequence data modelling techniques such as attention and transformers.
+In this subchapter, we introduce more recent sequence data modelling techniques such as attention and transformers.
 
 <!--more-->
 ### Lecture slides

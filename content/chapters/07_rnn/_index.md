@@ -1,4 +1,4 @@
 ---
 title: "Topic 07: Deep Recurrent Neural Networks"
 ---
-In this chapter we explain recurrent neural networks (RNN). These include an internal memory, thus making them especially useful for sequential data, as for example in NLP tasks. 
+This chapter introduces Recurrent Neural Networks (RNNs), designed to process sequential data by retaining information over time. It covers the backpropagation through time (BPTT) algorithm for training RNNs, highlighting key challenges like exploding and vanishing gradients. To address these issues, Long Short-Term Memory (LSTM) networks and Gated Recurrent Units (GRU) are introduced as enhanced architectures with gating mechanisms that better manage information flow. In addition, the chapter briefly introduces more recent approaches for modelling sequence data such as attention and transformers.

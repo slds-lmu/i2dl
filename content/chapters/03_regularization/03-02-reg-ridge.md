@@ -2,7 +2,8 @@
 title: "Chapter 03.02: Ridge Regularization"
 weight: 3002
 ---
-In this section, we introduce Ridge regression as a key approach to regularizing linear models. 
+In this section, we introduce Ridge regression as a key approach to regularizing linear models (Material provided by: [I2ML/SL lecture](https://slds-lmu.github.io/i2ml/chapters/15_regularization/).
+)
 
 <!--more-->
 

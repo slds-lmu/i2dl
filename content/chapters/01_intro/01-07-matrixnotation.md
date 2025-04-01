@@ -1,15 +1,10 @@
 ---
-title: "Chapter 01.07: Optimization"
+title: "Chapter 01.07: Matrix Notation"
 weight: 1007
 ---
-In this section we learn about compact representation of neural network, vector notation for neuron layers, vector and matrix notation of bias and weight parameters.
+In this section we explain the compact representation of neural networks, the vector notation for neuron layers and both the vector and matrix notation for bias and weight parameters.
 
 <!--more-->
-
-### Lecture video
-
-[video](https://drive.google.com/file/d/1gIIexhQXO4X1A1Hl_690FvCh5jKFWsIZ/view?usp=sharing)
-
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/slides-mlps-matrix-notation.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/mlps/slides-mlps-matrix-notation.pdf" >}}

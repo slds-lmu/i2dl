@@ -1,16 +1,11 @@
 ---
-title: "Chapter 07.03: Modern Recurrent Neural Networks"
+title: "Chapter 07.03: Modern RNNs"
 weight: 7003
 ---
-We explain how modern RNN such as LSTM, GRU, and Bidirectional RNN addressed problem of exploding and vanishing gradient by conventional RNN.   
+In this subchapter, we explain how modern RNN such as LSTM, GRU, and Bidirectional RNNs address the problem of exploding and vanishing gradients.  
 
 <!--more-->
-
-### Lecture video
-
-[video](https://drive.google.com/file/d/1eSrsGhMvivSinIpk4izKROBOJE8rHIEd/view?usp=sharing)
-
 ### Lecture slides
 
-{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/topic7/slides-8-3-modernrnn.pdf" >}}
+{{< pdfjs file="https://github.com/slds-lmu/lecture_i2dl/blob/main/slides-pdf/rnn/slides-modernrnn.pdf" >}}
 
